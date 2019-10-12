@@ -1,1 +1,3 @@
-3 algorimos en quantopian
+# Subject: Algorithms 2019-I
+
+3 algorithms made in quantopian
